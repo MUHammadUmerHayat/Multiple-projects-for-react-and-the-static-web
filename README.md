@@ -36,8 +36,6 @@ Here are some ideas of ways you can help:
 * **Tutorials:** know of a great tutorial that helps walk through building a similar project or something that might help as part of that project?
 * **Documentation:** is there anything on here you think is confusing, could use more clarification, or just something that could be helpful?
 
-
-
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
