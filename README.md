@@ -36,22 +36,7 @@ Here are some ideas of ways you can help:
 * **Tutorials:** know of a great tutorial that helps walk through building a similar project or something that might help as part of that project?
 * **Documentation:** is there anything on here you think is confusing, could use more clarification, or just something that could be helpful?
 
-##  Support This Project
 
-Support this project and future free content by [sponsoring @colbyfayock](https://github.com/sponsors/colbyfayock).
-
-## ✨ Contributors 
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://colbyfayock.com/newsletter"><img src="https://avatars2.githubusercontent.com/u/1045274?v=4" width="100px;" alt=""/><br /><sub><b>Colby Fayock</b></sub></a><br /><a href="https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/commits?author=colbyfayock" title="Code">💻</a> <a href="https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/commits?author=colbyfayock" title="Documentation">📖</a></td>
-  </tr>
-</table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
